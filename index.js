@@ -12,4 +12,5 @@ document.addEventListener('scroll', () => {
 })
 
 
-var audio = new Audio('musica/spiderman');
+var audio = new Audio('musica/avengers');
+audio.play();
