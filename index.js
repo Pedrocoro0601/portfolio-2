@@ -1,4 +1,4 @@
-var audio = new Audio('musica/joaofrango.mp3');
+var audio = new Audio('musica/siuu.mp3');
 var formacao = document.getElementById("formacao")
 var iron = document.getElementById("iron")
 var panteranegra = document.getElementById("panteranegra")
